@@ -1,4 +1,4 @@
 # bheem-demo
 This is my first Git Repository.
 <br>
-Author-Bheemlanaik
+Author-Banavath Bheemsingh
